@@ -1,1 +1,1 @@
- /bin/sh -c bash\ start.sh
+worker: python -m bot
